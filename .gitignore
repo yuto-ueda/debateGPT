@@ -1,0 +1,5 @@
+# Environment for local
+.env
+
+# DS file
+.DS_Store
